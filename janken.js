@@ -127,8 +127,3 @@ resetButton.addEventListener('click', () => {
     resetGame(); 
     closeModal();
 });
-
-console.log(modal)
-
-//goals for tomorrow make a restart game botton or make a modal
-// post gamne on github
